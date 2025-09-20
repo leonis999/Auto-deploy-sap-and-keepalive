@@ -25,8 +25,8 @@ on:
         default: ''
 
 env:
-  # DOCKER_IMAGE: ghcr.io/eooce/nodejs:main
-  DOCKER_IMAGE: ghcr.io/leonis999/nodejs:main
+  DOCKER_IMAGE: ghcr.io/eooce/nodejs:main
+  #DOCKER_IMAGE: ghcr.io/leonis999/nodejs:main
   MEMORY: 512M
 
 jobs:
